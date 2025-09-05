@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: lightning_parser_overlays
-Version: 0.3.47
+Version: 0.3.50
 Summary: Connor's Lightning Parser Overlays (LPO) is an overlay generation utility for different sensors onto the Lightning Parser Lib (LPL).
 Author-email: Connor White <connor.sw.personal@gmail.com>
 License-Expression: MIT
@@ -26,6 +26,8 @@ Requires-Dist: matplotlib
 Requires-Dist: holoviews
 Requires-Dist: geopandas
 Requires-Dist: Deprecation
+Requires-Dist: MetPy
+Requires-Dist: goes2go
 Dynamic: license-file
 
 # Connor's Lightning Parser Overlays (LPO)
