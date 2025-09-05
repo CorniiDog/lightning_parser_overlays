@@ -13,5 +13,4 @@ matplotlib
 holoviews
 geopandas
 Deprecation
-goes2go
 MetPy

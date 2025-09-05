@@ -34,8 +34,7 @@ dependencies = [
   "holoviews",
   "geopandas",
   "Deprecation",
-  "MetPy",
-  "goes2go"
+  "MetPy"
 ]
 
 [project.urls]
